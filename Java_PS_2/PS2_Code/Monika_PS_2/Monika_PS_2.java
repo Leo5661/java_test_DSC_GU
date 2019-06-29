@@ -41,7 +41,7 @@ class Solution {
             {
                 return false;
             }
-        };
+        }
         return deque.isEmpty();
     }
 }
